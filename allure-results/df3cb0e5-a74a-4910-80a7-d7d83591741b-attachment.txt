@@ -1,0 +1,4 @@
+
+--- 正在启动浏览器 ---
+截图已保存并附加到报告: TestScreenshots\20250805150932_12306_R001_001_InitialPage.png
+截图已保存并附加到报告: TestScreenshots\20250805150933_12306_R001_001_AfterSearchAndSwitch.png

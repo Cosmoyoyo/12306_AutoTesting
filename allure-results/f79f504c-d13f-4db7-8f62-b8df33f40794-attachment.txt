@@ -1,0 +1,4 @@
+截图已保存并附加到报告: TestScreenshots\20250805150935_12306_R001_002_InitialPage.png
+截图已保存并附加到报告: TestScreenshots\20250805150936_12306_R001_002_AfterSearchAndSwitch.png
+
+--- 已关闭浏览器 ---
