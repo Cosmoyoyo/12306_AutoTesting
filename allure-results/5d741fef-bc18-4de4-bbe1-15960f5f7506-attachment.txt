@@ -1,0 +1,2 @@
+截图已保存并附加到报告: TestScreenshots\20250805124510_12306_R001_002_InitialPage.png
+截图已保存并附加到报告: TestScreenshots\20250805124511_12306_R001_002_AfterSearchAndSwitch.png
